@@ -1,0 +1,13 @@
+need to create some json boundry files.
+
+main campus
+north campus
+
+work on an alf to take list of baseball home plates and create plots of the surrounding acre or so
+
+don't want to use circles - probably. figure out way to get a consitant frame that preserves scale
+
+-- create color scheme - should be able to pass lovrary of school colors to each plot
+
+-- big thing will be creating the different color profiles and figuring out how to feed new values for each plot based on school / team colors
+
