@@ -1,0 +1,43 @@
+### Hawk Hollow Map
+
+
+from ctypes.wintypes import PSMALL_RECT
+
+
+long = 42.7977
+lat = -84.4656
+center = (long, lat)
+
+
+### Layers 
+
+## Tags to pull
+
+
+
+ # Green  pallette
+golf
+fairway
+Grass #737860020
+
+
+
+
+##dark PSMALL_RECT
+Sand #737860019
+Wood #1008064764
+Water #293751914
+
+## Standout
+Wetland #1003645761
+
+
+#wildcard
+landuse
+
+
+
+
+
+Service Road #737871600
+Way 8

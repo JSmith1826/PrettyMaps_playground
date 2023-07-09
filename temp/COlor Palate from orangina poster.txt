@@ -1,0 +1,28 @@
+## COlor Palate from orangina poster
+## gennerated on
+/* Extended Array */
+[{"name":"Prussian Blue","hex":"203965","rgb":[32,57,101],"cmyk":[68,44,0,60],"hsb":[218,68,40],"hsl":[218,52,26],"lab":[24,6,-29]},{"name":"Gainsboro","hex":"D7D9D7","rgb":[215,217,215],"cmyk":[1,0,1,15],"hsb":[120,1,85],"hsl":[120,3,85],"lab":[86,-1,1]},{"name":"Cornsilk","hex":"FCF5DB","rgb":[252,245,219],"cmyk":[0,3,13,1],"hsb":[47,13,99],"hsl":[47,85,92],"lab":[96,-2,13]},{"name":"Jonquil","hex":"FBCD15","rgb":[251,205,21],"cmyk":[0,18,92,2],"hsb":[48,92,98],"hsl":[48,97,53],"lab":[84,2,83]},{"name":"Jonquil","hex":"E9C41E","rgb":[233,196,30],"cmyk":[0,16,87,9],"hsb":[49,87,91],"hsl":[49,82,52],"lab":[80,-1,77]}]
+
+
+
+
+/* With # */
+#203965, #D7D9D7, #FCF5DB, #FBCD15, #E9C41E
+
+/* Array */
+["203965","D7D9D7","FCF5DB","FBCD15","E9C41E"]
+
+/* Object */
+{"Prussian Blue":"203965","Gainsboro":"D7D9D7","Cornsilk":"FCF5DB","Jonquil":"FBCD15","Jonquil 2":"E9C41E"}
+
+/* Extended Array */
+[{"name":"Prussian Blue","hex":"203965","rgb":[32,57,101],"cmyk":[68,44,0,60],"hsb":[218,68,40],"hsl":[218,52,26],"lab":[24,6,-29]},{"name":"Gainsboro","hex":"D7D9D7","rgb":[215,217,215],"cmyk":[1,0,1,15],"hsb":[120,1,85],"hsl":[120,3,85],"lab":[86,-1,1]},{"name":"Cornsilk","hex":"FCF5DB","rgb":[252,245,219],"cmyk":[0,3,13,1],"hsb":[47,13,99],"hsl":[47,85,92],"lab":[96,-2,13]},{"name":"Jonquil","hex":"FBCD15","rgb":[251,205,21],"cmyk":[0,18,92,2],"hsb":[48,92,98],"hsl":[48,97,53],"lab":[84,2,83]},{"name":"Jonquil","hex":"E9C41E","rgb":[233,196,30],"cmyk":[0,16,87,9],"hsb":[49,87,91],"hsl":[49,82,52],"lab":[80,-1,77]}]
+
+/* XML */
+<palette>
+  <color name="Prussian Blue" hex="203965" r="32" g="57" b="101" />
+  <color name="Gainsboro" hex="D7D9D7" r="215" g="217" b="215" />
+  <color name="Cornsilk" hex="FCF5DB" r="252" g="245" b="219" />
+  <color name="Jonquil" hex="FBCD15" r="251" g="205" b="21" />
+  <color name="Jonquil" hex="E9C41E" r="233" g="196" b="30" />
+</palette>
